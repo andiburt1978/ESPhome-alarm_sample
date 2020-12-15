@@ -8,7 +8,7 @@ flash nodeMCU with alarm_pir.bin file attached
 
 in home assiatnt goto ESPhome and alarm_pir should be showing
 
-add to Home assistant via Intergrations.
+## add to Home assistant via Intergrations.
 Click +
 select ESPhome
 type alarm_pir.local (or use esp IP address) and click submit
