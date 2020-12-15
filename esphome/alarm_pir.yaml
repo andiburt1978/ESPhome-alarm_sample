@@ -1,5 +1,5 @@
 esphome:
-  name: pir_test
+  name: alarm_pir
   platform: ESP8266
   board: nodemcu
 
